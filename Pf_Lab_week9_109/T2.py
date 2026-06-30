@@ -1,0 +1,6 @@
+name = input("Enter your name: ")
+print("Student name: ", name)
+roll = int(input("Roll number: "))
+print("Student roll: ", roll)
+age = int(input("Age: "))
+print("Student age: ", age)
