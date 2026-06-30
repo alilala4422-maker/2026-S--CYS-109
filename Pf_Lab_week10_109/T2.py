@@ -1,0 +1,7 @@
+print("Name: ", "Ahmad")
+print("roll no: ", 67)
+print("age: ", 19)
+name = input("Enter your name: ")
+rollno = input("Enter your roll no: ")
+age = input("Enter your age: ")
+print("Name: ", name,"\nRoll no: ", rollno, "\nAge: ", age)
