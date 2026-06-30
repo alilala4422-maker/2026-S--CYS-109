@@ -1,0 +1,11 @@
+list=[6,"ali","xyz"]
+print(list)
+print(list[2])
+list.append(3)
+print(list)
+list.remove("ali")
+print(list)
+list.pop()
+print(list)
+list.pop(0)
+print(list)
